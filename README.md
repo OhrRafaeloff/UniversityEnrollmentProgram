@@ -37,7 +37,3 @@ A Java-based University Enrollment System built as a collaborative project with 
 ## 📘 Credits
 
 Developed by **Ohr Rafaeloff** in collaboration with **Professor Patil**, as part of **CS 136** at **West Los Angeles College**.
-
-## 📄 License
-
-[MIT or leave blank]
